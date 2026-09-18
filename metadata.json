@@ -1,0 +1,6 @@
+{
+  "name": "RoomRevise",
+  "description": "AI interior design consultant and SaaS studio platform featuring interactive room makeovers, style comparisons, context-aware refinement with shoppable sourcing, client collaboration, milestone tracking, and receipt scanning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
